@@ -1,0 +1,35 @@
+2015-06-25 18:44:26,887 [10] INFO   
+Main's runnin'...
+
+2015-06-25 18:44:26,926 [10] DEBUG  
+mapping drive: C
+2015-06-25 18:44:43,547 [10] ERROR  Unable to process DCMapService.MapDrive
+drive: C
+Error: Object reference not set to an instance of an object.
+2015-06-25 18:46:24,827 [8] INFO   
+********************************************************************************
+
+2015-06-25 18:46:24,858 [8] INFO   
+Main's runnin'...
+
+2015-06-25 18:46:24,876 [8] DEBUG  
+mapping drive: C
+2015-06-25 18:46:47,226 [8] ERROR  Unable to process DCMapService.MapDrive
+drive: C
+Error: Object reference not set to an instance of an object.
+2015-06-25 18:48:46,225 [8] INFO   
+********************************************************************************
+
+2015-06-25 18:48:46,263 [8] INFO   
+Main's runnin'...
+
+2015-06-25 18:48:46,280 [8] DEBUG  
+mapping drive: C
+2015-06-25 20:22:38,356 [9] INFO   
+********************************************************************************
+
+2015-06-25 20:22:38,387 [9] INFO   
+Main's runnin'...
+
+2015-06-25 20:22:38,418 [9] DEBUG  
+mapping drive: C

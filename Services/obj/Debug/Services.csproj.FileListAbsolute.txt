@@ -1,0 +1,30 @@
+D:\Projects\LogWriter4\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+D:\Projects\LogWriter4\Services\bin\Debug\Services.dll.config
+D:\Projects\LogWriter4\Services\bin\Debug\Services.dll
+D:\Projects\LogWriter4\Services\bin\Debug\Services.pdb
+D:\Projects\LogWriter4\Services\obj\Debug\Services.dll
+D:\Projects\LogWriter4\Services\obj\Debug\Services.pdb
+D:\Projects\LogWriter4\Services\bin\Debug\Core.dll
+D:\Projects\LogWriter4\Services\bin\Debug\Core.pdb
+C:\Projects\Log4NetWithDINinject-master\Services\bin\Debug\Services.dll.config
+C:\Projects\Log4NetWithDINinject-master\Services\bin\Debug\Services.dll
+C:\Projects\Log4NetWithDINinject-master\Services\bin\Debug\Services.pdb
+C:\Projects\Log4NetWithDINinject-master\Services\bin\Debug\Core.dll
+C:\Projects\Log4NetWithDINinject-master\Services\bin\Debug\Core.pdb
+C:\Projects\Log4NetWithDINinject-master\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Projects\Log4NetWithDINinject-master\Services\obj\Debug\Services.dll
+C:\Projects\Log4NetWithDINinject-master\Services\obj\Debug\Services.pdb
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\DCMapper\Services\bin\Debug\Services.dll.config
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\DCMapper\Services\bin\Debug\Services.dll
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\DCMapper\Services\bin\Debug\Services.pdb
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\DCMapper\Services\bin\Debug\Core.dll
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\DCMapper\Services\bin\Debug\Core.pdb
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\DCMapper\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\DCMapper\Services\obj\Debug\Services.dll
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\DCMapper\Services\obj\Debug\Services.pdb
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\DCMapper\Services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\DCMapper\Services\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\DCMapper\Services\bin\Debug\EntityFramework.dll
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\DCMapper\Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\DCMapper\Services\bin\Debug\EntityFramework.xml
+C:\Users\Jim\Documents\Visual Studio 2012\Projects\DCMapper\Services\bin\Debug\EntityFramework.SqlServer.xml

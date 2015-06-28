@@ -1,0 +1,30 @@
+2015-06-27 23:39:39,157 [9] DEBUG  Unable to process DCMapService.WalkDirectoryTree
+drive: C:\Documents and Settings
+Error: Access to the path 'C:\Documents and Settings' is denied.
+2015-06-27 23:39:43,094 [9] DEBUG  Unable to process DCMapService.WalkDirectoryTree
+drive: C:\found.000
+Error: Access to the path 'C:\found.000' is denied.
+2015-06-27 23:39:43,101 [9] DEBUG  Unable to process DCMapService.WalkDirectoryTree
+drive: C:\found.001
+Error: Access to the path 'C:\found.001' is denied.
+2015-06-27 23:39:43,108 [9] DEBUG  Unable to process DCMapService.WalkDirectoryTree
+drive: C:\found.002
+Error: Access to the path 'C:\found.002' is denied.
+2015-06-27 23:39:43,115 [9] DEBUG  Unable to process DCMapService.WalkDirectoryTree
+drive: C:\found.003
+Error: Access to the path 'C:\found.003' is denied.
+2015-06-27 23:39:43,123 [9] DEBUG  Unable to process DCMapService.WalkDirectoryTree
+drive: C:\found.004
+Error: Access to the path 'C:\found.004' is denied.
+2015-06-27 23:41:30,617 [10] INFO   
+********************************************************************************
+
+2015-06-27 23:41:30,649 [10] INFO   
+Main's runnin'...
+
+2015-06-27 23:43:30,423 [10] INFO   
+********************************************************************************
+
+2015-06-27 23:43:30,456 [10] INFO   
+Main's runnin'...
+
